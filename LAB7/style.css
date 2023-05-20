@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    color: #45a049;
+    background-color: #000200; width: 40%;
+  }
+
+  p {
+    color: #45a049;
+    background-color: #000200; width: 40%;
+    
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    background-color: #010701;
+    color: #45a049;
+  }
+  
+  td {
+    padding: 5px;
+  }
+  
+  input[type="text"],
+  input[type="password"],
+  select {
+    width: 200px;
+    padding: 10px;
+    background-color: #45a049;
+    color: #000700;
+  }
+  
+  input[type="checkbox"] {
+    margin-top: 5px;
+    background-color: #45a049;
+  }
+  
+  input[type="submit"] {
+    padding: 8px 16px;
+    background-color: #45a049;
+    color: #000200;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  small {
+    color: #880f0f;
+  }
+  
+  
